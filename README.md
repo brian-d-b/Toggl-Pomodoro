@@ -1,6 +1,10 @@
 # Brian's Toggl-Pomodoro
 
 
+![image](https://github.com/user-attachments/assets/606e42fc-c096-416a-a2e1-565f97801d8f)
+
+![image](https://github.com/user-attachments/assets/c745c9b1-92f9-43a7-b619-1abdf9d0eee3)
+
 
 ### Why?
 ---
