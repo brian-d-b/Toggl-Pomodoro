@@ -12,12 +12,12 @@
 Toggl currently has some limitations.
 
 Pomodoro:
-    - Can't extend / pause timer.
-    - Cant' choose different sounds
-    - 
-Toggl's Time Entries:
+1) Can't extend / pause timer.
+2) Cant' choose different sounds
 
-    - Can't choose any sort of auditory feedback (like white/pink noise)
+
+Toggl's Time Entries:
+1) Can't choose any sort of auditory feedback (like white/pink noise)
 
 
 ---
