@@ -1,14 +1,30 @@
-# Toggl-Pomodoro script.
+# Brian's Toggl-Pomodoro
 
 
 
 ### Why?
 ---
-    - Toggl
-    - Sound Notification / Feedback (Pink Noise)
-    - Pomodoro
+
+Toggl currently has some limitations.
+
+Pomodoro:
+    - Can't extend / pause timer.
+    - Cant' choose different sounds
+Toggl's Time Entries:
+    - Can't choose any sort of auditory feedback (like white/pink noise)
 
 
 ---
 
-Toggl doesn't give you any auditory feedback when a timer is running. I have decided to create a wrapper to implement it myself.
+### Implementation
+---
+
+I am simply using Python to call Toggl's REST API.
+
+
+
+#### How to use:
+
+1) Paste your Toggl API key in config.json
+2) ???
+3) Profit!
